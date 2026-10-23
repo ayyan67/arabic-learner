@@ -1,0 +1,19 @@
+/node_modules
+/.next
+/out
+/build
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+.env*
+
+# Generated from third-party sources whose terms forbid redistribution.
+# Quran.com API v4 (text, translation, word-by-word) is display-only; the
+# Quranic Arabic Corpus morphology joined into these files is GPL-framed data.
+# Regenerate locally with: npm run data
+/lib/data/quran/
+/lib/data/roots.json
+
+# Research inputs (not original work)
+/deep-research-report*.md
+/Integrating Traditional Arabic Learning.pdf

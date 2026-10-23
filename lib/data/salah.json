@@ -1,0 +1,208 @@
+{
+  "title": "Salah Mode",
+  "subtitle": "Understand what you say in every prayer",
+  "note": "Al-Fātiḥah is recited in every rakʿah — study it word-by-word in the Reader (Surah 1). Below are the remembrances and supplications said during ṣalāh.",
+  "groups": [
+    {
+      "id": "opening",
+      "title": "Opening the prayer",
+      "phrases": [
+        {
+          "id": "takbir",
+          "title": "Takbīrat al-Iḥrām",
+          "when": "Said while raising the hands to begin the prayer, and with every change of position.",
+          "arabic": "اللَّهُ أَكْبَرُ",
+          "translation": "Allah is the Greatest.",
+          "reference": "Bukhārī & Muslim",
+          "words": [
+            { "arabic": "اللَّهُ", "translit": "Allāhu", "translation": "Allah", "root": "أ ل ه", "pos": "proper noun (nominative)" },
+            { "arabic": "أَكْبَرُ", "translit": "akbaru", "translation": "(is) the Greatest", "root": "ك ب ر", "pos": "superlative adjective (ism tafḍīl)" }
+          ]
+        },
+        {
+          "id": "istiftah",
+          "title": "Opening Supplication (Istiftāḥ)",
+          "when": "Said silently after the opening takbīr, before reciting Al-Fātiḥah.",
+          "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَىٰ جَدُّكَ، وَلَا إِلَٰهَ غَيْرُكَ",
+          "translation": "Glory be to You, O Allah, and praise; blessed is Your name and exalted is Your majesty; there is no god other than You.",
+          "reference": "Abū Dāwūd & Tirmidhī",
+          "words": [
+            { "arabic": "سُبْحَانَكَ", "translit": "subḥānaka", "translation": "Glory be to You", "root": "س ب ح" },
+            { "arabic": "اللَّهُمَّ", "translit": "Allāhumma", "translation": "O Allah", "root": "أ ل ه" },
+            { "arabic": "وَبِحَمْدِكَ", "translit": "wa-biḥamdika", "translation": "and with Your praise", "root": "ح م د" },
+            { "arabic": "وَتَبَارَكَ", "translit": "wa-tabāraka", "translation": "and blessed is", "root": "ب ر ك", "pos": "verb, Form VI" },
+            { "arabic": "اسْمُكَ", "translit": "ismuka", "translation": "Your name", "root": "س م و" },
+            { "arabic": "وَتَعَالَىٰ", "translit": "wa-taʿālā", "translation": "and exalted is", "root": "ع ل و" },
+            { "arabic": "جَدُّكَ", "translit": "jadduka", "translation": "Your majesty", "root": "ج د د" },
+            { "arabic": "وَلَا", "translit": "wa-lā", "translation": "and (there is) no" },
+            { "arabic": "إِلَٰهَ", "translit": "ilāha", "translation": "god", "root": "أ ل ه" },
+            { "arabic": "غَيْرُكَ", "translit": "ghayruka", "translation": "other than You" }
+          ]
+        },
+        {
+          "id": "taawwudh",
+          "title": "Seeking Refuge (Taʿawwudh)",
+          "when": "Said silently before reciting Al-Fātiḥah.",
+          "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+          "translation": "I seek refuge in Allah from Satan, the accursed.",
+          "reference": "Qurʾan 16:98",
+          "words": [
+            { "arabic": "أَعُوذُ", "translit": "aʿūdhu", "translation": "I seek refuge", "root": "ع و ذ", "pos": "verb, present (Form I)" },
+            { "arabic": "بِاللَّهِ", "translit": "billāhi", "translation": "in Allah", "root": "أ ل ه" },
+            { "arabic": "مِنَ", "translit": "mina", "translation": "from" },
+            { "arabic": "الشَّيْطَانِ", "translit": "ash-shayṭāni", "translation": "Satan", "root": "ش ط ن" },
+            { "arabic": "الرَّجِيمِ", "translit": "ar-rajīmi", "translation": "the accursed", "root": "ر ج م", "pos": "adjective" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ruku",
+      "title": "Bowing (Rukūʿ) & rising",
+      "phrases": [
+        {
+          "id": "tasbih-ruku",
+          "title": "Tasbīḥ of Rukūʿ",
+          "when": "Said three times while bowing.",
+          "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+          "translation": "Glory to my Lord, the Magnificent.",
+          "reference": "Muslim",
+          "words": [
+            { "arabic": "سُبْحَانَ", "translit": "subḥāna", "translation": "Glory to", "root": "س ب ح", "pos": "verbal noun (maṣdar)" },
+            { "arabic": "رَبِّيَ", "translit": "rabbiya", "translation": "my Lord", "root": "ر ب ب" },
+            { "arabic": "الْعَظِيمِ", "translit": "al-ʿaẓīmi", "translation": "the Magnificent", "root": "ع ظ م", "pos": "adjective" }
+          ]
+        },
+        {
+          "id": "rising",
+          "title": "Rising from Rukūʿ",
+          "when": "Said while straightening up from the bow.",
+          "arabic": "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ، رَبَّنَا وَلَكَ الْحَمْدُ",
+          "translation": "Allah hears whoever praises Him. Our Lord, to You is all praise.",
+          "reference": "Bukhārī",
+          "words": [
+            { "arabic": "سَمِعَ", "translit": "samiʿa", "translation": "hears", "root": "س م ع", "pos": "verb, past (Form I)" },
+            { "arabic": "اللَّهُ", "translit": "Allāhu", "translation": "Allah", "root": "أ ل ه" },
+            { "arabic": "لِمَنْ", "translit": "liman", "translation": "the one who" },
+            { "arabic": "حَمِدَهُ", "translit": "ḥamidahu", "translation": "praises Him", "root": "ح م د" },
+            { "arabic": "رَبَّنَا", "translit": "rabbanā", "translation": "Our Lord", "root": "ر ب ب" },
+            { "arabic": "وَلَكَ", "translit": "wa-laka", "translation": "and to You" },
+            { "arabic": "الْحَمْدُ", "translit": "al-ḥamdu", "translation": "(is all) praise", "root": "ح م د" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sujud",
+      "title": "Prostration (Sujūd)",
+      "phrases": [
+        {
+          "id": "tasbih-sujud",
+          "title": "Tasbīḥ of Sujūd",
+          "when": "Said three times while prostrating.",
+          "arabic": "سُبْحَانَ رَبِّيَ الْأَعْلَىٰ",
+          "translation": "Glory to my Lord, the Most High.",
+          "reference": "Muslim",
+          "words": [
+            { "arabic": "سُبْحَانَ", "translit": "subḥāna", "translation": "Glory to", "root": "س ب ح", "pos": "verbal noun (maṣdar)" },
+            { "arabic": "رَبِّيَ", "translit": "rabbiya", "translation": "my Lord", "root": "ر ب ب" },
+            { "arabic": "الْأَعْلَىٰ", "translit": "al-aʿlā", "translation": "the Most High", "root": "ع ل و", "pos": "superlative adjective" }
+          ]
+        },
+        {
+          "id": "between-sajdah",
+          "title": "Sitting between the two prostrations",
+          "when": "Said while sitting between the two sajdahs.",
+          "arabic": "رَبِّ اغْفِرْ لِي",
+          "translation": "My Lord, forgive me.",
+          "reference": "Abū Dāwūd",
+          "words": [
+            { "arabic": "رَبِّ", "translit": "rabbi", "translation": "My Lord", "root": "ر ب ب" },
+            { "arabic": "اغْفِرْ", "translit": "ighfir", "translation": "forgive", "root": "غ ف ر", "pos": "verb, imperative (Form I)" },
+            { "arabic": "لِي", "translit": "lī", "translation": "me" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tashahhud",
+      "title": "Tashahhud & Ṣalawāt",
+      "phrases": [
+        {
+          "id": "tashahhud",
+          "title": "The Tashahhud",
+          "when": "Said sitting after every two rakʿahs.",
+          "arabic": "التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَىٰ عِبَادِ اللَّهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+          "translation": "All greetings of honor, prayers, and good words are for Allah. Peace be upon you, O Prophet, and the mercy of Allah and His blessings. Peace be upon us and upon the righteous servants of Allah. I bear witness that there is no god but Allah, and I bear witness that Muhammad is His servant and His Messenger.",
+          "reference": "Bukhārī & Muslim",
+          "words": [
+            { "arabic": "التَّحِيَّاتُ", "translit": "at-taḥiyyātu", "translation": "All greetings of honor", "root": "ح ي ي" },
+            { "arabic": "لِلَّهِ", "translit": "lillāhi", "translation": "are for Allah", "root": "أ ل ه" },
+            { "arabic": "وَالصَّلَوَاتُ", "translit": "waṣ-ṣalawātu", "translation": "and prayers", "root": "ص ل و" },
+            { "arabic": "وَالطَّيِّبَاتُ", "translit": "waṭ-ṭayyibātu", "translation": "and good words", "root": "ط ي ب" },
+            { "arabic": "السَّلَامُ", "translit": "as-salāmu", "translation": "Peace", "root": "س ل م" },
+            { "arabic": "عَلَيْكَ", "translit": "ʿalayka", "translation": "be upon you" },
+            { "arabic": "أَيُّهَا", "translit": "ayyuhā", "translation": "O" },
+            { "arabic": "النَّبِيُّ", "translit": "an-nabiyyu", "translation": "Prophet", "root": "ن ب أ" },
+            { "arabic": "وَرَحْمَةُ", "translit": "wa-raḥmatu", "translation": "and the mercy", "root": "ر ح م" },
+            { "arabic": "اللَّهِ", "translit": "Allāhi", "translation": "of Allah", "root": "أ ل ه" },
+            { "arabic": "وَبَرَكَاتُهُ", "translit": "wa-barakātuhu", "translation": "and His blessings", "root": "ب ر ك" },
+            { "arabic": "عَلَيْنَا", "translit": "ʿalaynā", "translation": "(be) upon us" },
+            { "arabic": "وَعَلَىٰ", "translit": "wa-ʿalā", "translation": "and upon" },
+            { "arabic": "عِبَادِ", "translit": "ʿibādi", "translation": "the servants", "root": "ع ب د" },
+            { "arabic": "الصَّالِحِينَ", "translit": "aṣ-ṣāliḥīna", "translation": "the righteous", "root": "ص ل ح", "pos": "active participle (ism fāʿil)" },
+            { "arabic": "أَشْهَدُ", "translit": "ashhadu", "translation": "I bear witness", "root": "ش ه د", "pos": "verb, present (Form I)" },
+            { "arabic": "أَنْ", "translit": "an", "translation": "that" },
+            { "arabic": "لَا", "translit": "lā", "translation": "(there is) no" },
+            { "arabic": "إِلَٰهَ", "translit": "ilāha", "translation": "god", "root": "أ ل ه" },
+            { "arabic": "إِلَّا", "translit": "illā", "translation": "except" },
+            { "arabic": "اللَّهُ", "translit": "Allāhu", "translation": "Allah" },
+            { "arabic": "وَأَشْهَدُ", "translit": "wa-ashhadu", "translation": "and I bear witness", "root": "ش ه د" },
+            { "arabic": "أَنَّ", "translit": "anna", "translation": "that" },
+            { "arabic": "مُحَمَّدًا", "translit": "muḥammadan", "translation": "Muhammad", "root": "ح م د" },
+            { "arabic": "عَبْدُهُ", "translit": "ʿabduhu", "translation": "(is) His servant", "root": "ع ب د" },
+            { "arabic": "وَرَسُولُهُ", "translit": "wa-rasūluhu", "translation": "and His Messenger", "root": "ر س ل" }
+          ]
+        },
+        {
+          "id": "salawat",
+          "title": "Ṣalawāt Ibrāhīmiyyah",
+          "when": "Said after the tashahhud, sending blessings on the Prophet ﷺ.",
+          "arabic": "اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَىٰ إِبْرَاهِيمَ وَعَلَىٰ آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+          "translation": "O Allah, send blessings upon Muhammad and upon the family of Muhammad, as You sent blessings upon Ibrahim and upon the family of Ibrahim; indeed You are Praiseworthy, Glorious.",
+          "reference": "Bukhārī & Muslim",
+          "words": [
+            { "arabic": "اللَّهُمَّ", "translit": "Allāhumma", "translation": "O Allah", "root": "أ ل ه" },
+            { "arabic": "صَلِّ", "translit": "ṣalli", "translation": "send blessings", "root": "ص ل و", "pos": "verb, imperative (Form II)" },
+            { "arabic": "عَلَىٰ", "translit": "ʿalā", "translation": "upon" },
+            { "arabic": "مُحَمَّدٍ", "translit": "muḥammadin", "translation": "Muhammad", "root": "ح م د" },
+            { "arabic": "وَعَلَىٰ", "translit": "wa-ʿalā", "translation": "and upon" },
+            { "arabic": "آلِ", "translit": "āli", "translation": "the family of", "root": "أ و ل" },
+            { "arabic": "مُحَمَّدٍ", "translit": "muḥammadin", "translation": "Muhammad" },
+            { "arabic": "كَمَا", "translit": "kamā", "translation": "as" },
+            { "arabic": "صَلَّيْتَ", "translit": "ṣallayta", "translation": "You sent blessings", "root": "ص ل و" },
+            { "arabic": "عَلَىٰ", "translit": "ʿalā", "translation": "upon" },
+            { "arabic": "إِبْرَاهِيمَ", "translit": "ibrāhīma", "translation": "Ibrahim" },
+            { "arabic": "إِنَّكَ", "translit": "innaka", "translation": "indeed You" },
+            { "arabic": "حَمِيدٌ", "translit": "ḥamīdun", "translation": "(are) Praiseworthy", "root": "ح م د" },
+            { "arabic": "مَجِيدٌ", "translit": "majīdun", "translation": "Glorious", "root": "م ج د" }
+          ]
+        },
+        {
+          "id": "taslim",
+          "title": "Taslīm (ending the prayer)",
+          "when": "Said while turning the head to the right, then the left, to end the prayer.",
+          "arabic": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ",
+          "translation": "Peace be upon you, and the mercy of Allah.",
+          "reference": "Muslim",
+          "words": [
+            { "arabic": "السَّلَامُ", "translit": "as-salāmu", "translation": "Peace", "root": "س ل م" },
+            { "arabic": "عَلَيْكُمْ", "translit": "ʿalaykum", "translation": "be upon you (all)" },
+            { "arabic": "وَرَحْمَةُ", "translit": "wa-raḥmatu", "translation": "and the mercy", "root": "ر ح م" },
+            { "arabic": "اللَّهِ", "translit": "Allāhi", "translation": "of Allah", "root": "أ ل ه" }
+          ]
+        }
+      ]
+    }
+  ]
+}

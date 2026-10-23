@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-quran: "Amiri Quran", "Noto Naskh Arabic", serif;
+  --font-naskh: "Noto Naskh Arabic", serif;
+  --font-arabic-ui: "Noto Sans Arabic", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background:
+    radial-gradient(1200px 600px at 50% -10%, #fffdf8 0%, transparent 60%),
+    #faf7f0;
+  color: #1a1714;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+.arabic {
+  direction: rtl;
+  unicode-bidi: isolate;
+}
+
+.font-quran {
+  font-feature-settings: "calt", "liga";
+  line-height: 2.1;
+}
+
+/* word hover/active states in the reader */
+.word {
+  transition: background-color 0.12s ease, color 0.12s ease;
+  border-radius: 0.35rem;
+  padding: 0.05em 0.12em;
+  cursor: pointer;
+}
+.word:hover {
+  background-color: #f3e6c8;
+}
+.word.active {
+  background-color: #a67c2e;
+  color: #fff;
+}
+.word.saved {
+  box-shadow: inset 0 -0.18em 0 0 #c9a24b;
+}
+
+/* hide scrollbars on the tap panel transitions but keep usability */
+.panel-scroll {
+  scrollbar-width: thin;
+}
+
+@keyframes slideUp {
+  from { transform: translateY(12px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+.slide-up { animation: slideUp 0.18s ease-out; }

@@ -1,0 +1,137 @@
+{
+  "1:2": {
+    "key": "1:2",
+    "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "translation": "All praise is due to Allah, Lord of the worlds.",
+    "words": [
+      {
+        "arabic": "الْحَمْدُ",
+        "role": "mubtadaʾ (subject)",
+        "case": "marfūʿ — nominative (-u)",
+        "explanation": "The starting noun of the sentence. It is definite and marfūʿ, ending in ḍammah (-u)."
+      },
+      {
+        "arabic": "لِلَّهِ",
+        "role": "jār + majrūr (predicate)",
+        "case": "majrūr — genitive (-i)",
+        "explanation": "Preposition لِ ('to/for') + اللَّهِ. The phrase 'belongs to Allah' acts as the khabar (predicate): 'the praise → (belongs) to Allah'."
+      },
+      {
+        "arabic": "رَبِّ",
+        "role": "naʿt / badal of Allah, and muḍāf",
+        "case": "majrūr — genitive (-i)",
+        "explanation": "Describes اللَّهِ, so it follows it in the genitive. It is also the muḍāf (first noun) of the iḍāfah رَبِّ الْعَالَمِينَ."
+      },
+      {
+        "arabic": "الْعَالَمِينَ",
+        "role": "muḍāf ilayh",
+        "case": "majrūr — genitive (-īna)",
+        "explanation": "The second noun of the iḍāfah ('of the worlds'), always genitive. The sound masculine plural marks genitive with -īna."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Why is رَبِّ majrūr (genitive)?",
+        "options": [
+          "Because it is the subject of the sentence",
+          "Because it describes اللَّهِ (which is genitive) and is also a muḍāf",
+          "Because it comes after a verb"
+        ],
+        "answer": 1,
+        "explanation": "It is a description (naʿt/badal) of اللَّهِ, so it matches it in the genitive; it is simultaneously the muḍāf of رَبِّ الْعَالَمِينَ."
+      },
+      {
+        "q": "Which word is the mubtadaʾ (starting subject)?",
+        "options": ["الْحَمْدُ", "لِلَّهِ", "رَبِّ"],
+        "answer": 0,
+        "explanation": "الْحَمْدُ is the definite noun that begins the sentence and is marfūʿ — the mubtadaʾ."
+      },
+      {
+        "q": "Which word is the muḍāf ilayh in رَبِّ الْعَالَمِينَ?",
+        "options": ["رَبِّ", "الْعَالَمِينَ", "الْحَمْدُ"],
+        "answer": 1,
+        "explanation": "الْعَالَمِينَ is the second, genitive noun of the iḍāfah."
+      }
+    ]
+  },
+  "1:5": {
+    "key": "1:5",
+    "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "translation": "It is You we worship, and You we ask for help.",
+    "words": [
+      {
+        "arabic": "إِيَّاكَ",
+        "role": "mafʿūl bihi (object), brought forward",
+        "case": "manṣūb — accusative (object pronoun)",
+        "explanation": "A detached object pronoun ('You') placed BEFORE the verb for emphasis and exclusivity: 'You ALONE we worship'. Fronting the object restricts the meaning."
+      },
+      {
+        "arabic": "نَعْبُدُ",
+        "role": "verb + hidden subject 'we'",
+        "case": "marfūʿ — nominative (-u)",
+        "explanation": "Present-tense verb (root ع ب د). The subject 'we' is contained in the prefix نَ-. Marfūʿ because it is an unaffected present verb."
+      },
+      {
+        "arabic": "نَسْتَعِينُ",
+        "role": "verb + hidden subject 'we'",
+        "case": "marfūʿ — nominative (-u)",
+        "explanation": "Form X verb from root ع و ن ('to seek help'). The fronted إِيَّاكَ before it again means 'You alone we ask for help'."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Why does إِيَّاكَ come BEFORE the verb نَعْبُدُ?",
+        "options": [
+          "It is the subject",
+          "Fronting the object gives exclusivity: 'You ALONE we worship'",
+          "It is required by all Arabic verbs"
+        ],
+        "answer": 1,
+        "explanation": "Placing the object before the verb restricts the action to that object — 'You alone we worship'."
+      }
+    ]
+  },
+  "112:1": {
+    "key": "112:1",
+    "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "translation": "Say, 'He is Allah, [who is] One.'",
+    "words": [
+      {
+        "arabic": "قُلْ",
+        "role": "command verb (fiʿl amr)",
+        "case": "majzūm — jussive (sukūn ending)",
+        "explanation": "Imperative 'Say' (root ق و ل). Its subject 'you' is contained within it."
+      },
+      {
+        "arabic": "هُوَ",
+        "role": "mubtadaʾ (subject pronoun)",
+        "case": "mabnī — indeclinable (nominative position)",
+        "explanation": "'He' — the starting subject of the sentence inside the speech of 'Say'."
+      },
+      {
+        "arabic": "اللَّهُ",
+        "role": "khabar / second mubtadaʾ",
+        "case": "marfūʿ — nominative (-u)",
+        "explanation": "Identifies the subject: 'He is Allah'. Marfūʿ, ending in ḍammah."
+      },
+      {
+        "arabic": "أَحَدٌ",
+        "role": "khabar (predicate)",
+        "case": "marfūʿ — nominative (-un)",
+        "explanation": "'One' — the predicate giving the key information. Indefinite, so it ends in tanwīn (-un)."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What case is أَحَدٌ, and how can you tell?",
+        "options": [
+          "Genitive — it ends in -i",
+          "Nominative — it ends in tanwīn ḍammah (-un)",
+          "Accusative — it ends in -an"
+        ],
+        "answer": 1,
+        "explanation": "أَحَدٌ ends in -un (tanwīn ḍammah), marking it marfūʿ (nominative) as the predicate."
+      }
+    ]
+  }
+}

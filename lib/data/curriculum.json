@@ -1,0 +1,163 @@
+{
+  "title": "Curriculum",
+  "subtitle": "Grammar that unlocks the words you already read",
+  "lessons": [
+    {
+      "id": "kinds-of-words",
+      "level": "Beginner",
+      "title": "1. The three kinds of words",
+      "concept": "Every Arabic word is a noun (اسم), a verb (فعل), or a particle (حرف).",
+      "explanation": "Classical grammar (naḥw) begins with one division: speech is made of nouns, verbs, and particles. A noun (ism) names a thing, person, or quality and carries no time. A verb (fiʿl) is an action tied to a time (past, present, command). A particle (ḥarf) has no meaning on its own — it links other words (like 'in', 'and', 'to'). Learn to sort every word into one of these three and grammar starts to fall into place.",
+      "keyPoints": [
+        "Ism (noun): الله، رب، رحمن — names and qualities, no time.",
+        "Fiʿl (verb): نَعْبُدُ (we worship), اهْدِنَا (guide us) — actions with time.",
+        "Ḥarf (particle): بِ (in), وَ (and), مِنْ (from) — connectors with no standalone meaning."
+      ],
+      "examples": [
+        { "arabic": "اللَّهِ", "translit": "Allāhi", "translation": "Allah", "kind": "noun", "ref": "1:1" },
+        { "arabic": "نَعْبُدُ", "translit": "naʿbudu", "translation": "we worship", "kind": "verb", "ref": "1:5" },
+        { "arabic": "بِ", "translit": "bi-", "translation": "in / with", "kind": "particle", "ref": "1:1" }
+      ],
+      "quiz": [
+        {
+          "q": "What kind of word is نَعْبُدُ ('we worship')?",
+          "options": ["Noun (ism)", "Verb (fiʿl)", "Particle (ḥarf)"],
+          "answer": 1,
+          "explanation": "It is an action tied to a time (present tense) — a verb."
+        },
+        {
+          "q": "The word مِنْ ('from') is a…",
+          "options": ["Noun", "Verb", "Particle"],
+          "answer": 2,
+          "explanation": "It has no meaning by itself and only links words — a particle (ḥarf)."
+        }
+      ]
+    },
+    {
+      "id": "definite-article",
+      "level": "Beginner",
+      "title": "2. The definite article (al-)",
+      "concept": "ال (al-) attached to the front of a noun makes it 'the'.",
+      "explanation": "Arabic has no separate word for 'the' — it prefixes ال onto the noun. الْحَمْدُ = 'the praise'. When ال meets a 'sun letter' (like ر, ش, س), the ل assimilates and the next letter doubles: الرَّحْمَٰن is read 'ar-raḥmān', not 'al-raḥmān'. A noun with ال is definite (maʿrifah); without it, it is indefinite (nakirah) and often ends in tanwīn (-un/-in/-an).",
+      "keyPoints": [
+        "ال = 'the'; it attaches directly to the noun.",
+        "Sun letters double after ال: الشَّمْس → 'ash-shams'.",
+        "Definite (الْكِتَاب) vs indefinite (كِتَابٌ, 'a book')."
+      ],
+      "examples": [
+        { "arabic": "الْحَمْدُ", "translit": "al-ḥamdu", "translation": "the praise", "ref": "1:2" },
+        { "arabic": "الرَّحْمَٰنِ", "translit": "ar-raḥmāni", "translation": "the Most Merciful", "note": "sun letter ر — ل assimilates", "ref": "1:3" },
+        { "arabic": "النَّاسِ", "translit": "an-nāsi", "translation": "the people", "ref": "114:1" }
+      ],
+      "quiz": [
+        {
+          "q": "Why is الرَّحْمَٰن pronounced 'ar-raḥmān' and not 'al-raḥmān'?",
+          "options": ["A spelling mistake", "ر is a sun letter, so ل assimilates and ر doubles", "Because it is a name of Allah"],
+          "answer": 1,
+          "explanation": "ر is a sun letter; the ل of ال assimilates into it and the following letter is doubled (shaddah)."
+        }
+      ]
+    },
+    {
+      "id": "idafah",
+      "level": "Lower-intermediate",
+      "title": "3. Possession (Iḍāfah): muḍāf & muḍāf ilayh",
+      "concept": "Two nouns joined to mean 'the X of Y' — رَبِّ الْعَالَمِينَ = 'Lord of the worlds'.",
+      "explanation": "Iḍāfah chains two nouns to show possession or relationship. The first noun (muḍāf) takes NO ال and NO tanwīn; the second noun (muḍāf ilayh) is always genitive (majrūr, -i). So رَبِّ الْعَالَمِينَ = 'Lord of the worlds': رَبِّ is muḍāf, الْعَالَمِينَ is muḍāf ilayh. Spotting iḍāfah is one of the fastest ways to read Qurʾanic phrases correctly.",
+      "keyPoints": [
+        "Muḍāf (1st noun): no ال, no tanwīn.",
+        "Muḍāf ilayh (2nd noun): always genitive (majrūr).",
+        "Translate as 'the … of …'."
+      ],
+      "examples": [
+        { "arabic": "رَبِّ الْعَالَمِينَ", "translit": "rabbi l-ʿālamīn", "translation": "Lord of the worlds", "ref": "1:2" },
+        { "arabic": "مَالِكِ يَوْمِ الدِّينِ", "translit": "māliki yawmi d-dīn", "translation": "Master of the Day of Judgment", "note": "a double iḍāfah chain", "ref": "1:4" },
+        { "arabic": "رَبِّ النَّاسِ", "translit": "rabbi n-nās", "translation": "Lord of mankind", "ref": "114:1" }
+      ],
+      "quiz": [
+        {
+          "q": "In رَبِّ الْعَالَمِينَ, which word is the muḍāf ilayh (genitive second noun)?",
+          "options": ["رَبِّ", "الْعَالَمِينَ", "Neither"],
+          "answer": 1,
+          "explanation": "الْعَالَمِينَ is the second noun and is majrūr — the muḍāf ilayh. رَبِّ is the muḍāf."
+        }
+      ]
+    },
+    {
+      "id": "jar-majrur",
+      "level": "Lower-intermediate",
+      "title": "4. Preposition + genitive (Jār & Majrūr)",
+      "concept": "A preposition pulls the following noun into the genitive case (-i).",
+      "explanation": "Certain particles — بِ (in/with), لِ (to/for), مِنْ (from), فِي (in), عَلَىٰ (on) — are 'jārr' (pullers): the noun after them must be majrūr (genitive). بِسْمِ = بِ + اسْمِ ('in the name'); لِلَّهِ = لِ + اللَّهِ ('to Allah'). Together the preposition and its noun form a 'jār-majrūr' phrase, which usually attaches to a verb or stands as a predicate.",
+      "keyPoints": [
+        "Prepositions: بِ، لِ، مِنْ، فِي، عَلَىٰ، إِلَىٰ، عَنْ.",
+        "The noun after them is genitive (majrūr, ends -i / -in).",
+        "بِ + اسْم = بِسْم; لِ + الله = لله."
+      ],
+      "examples": [
+        { "arabic": "بِسْمِ", "translit": "bismi", "translation": "in the name of", "ref": "1:1" },
+        { "arabic": "لِلَّهِ", "translit": "lillāhi", "translation": "to / for Allah", "ref": "1:2" },
+        { "arabic": "مِنَ الْجِنَّةِ", "translit": "mina l-jinnati", "translation": "from the jinn", "ref": "114:6" }
+      ],
+      "quiz": [
+        {
+          "q": "After the preposition لِ, what case is the noun in?",
+          "options": ["Nominative (-u)", "Accusative (-a)", "Genitive (-i)"],
+          "answer": 2,
+          "explanation": "Prepositions put the following noun in the genitive (majrūr): لِلَّهِ ends in -i."
+        }
+      ]
+    },
+    {
+      "id": "root-pattern",
+      "level": "Intermediate",
+      "title": "5. Roots & patterns (intro to ṣarf)",
+      "concept": "Most Arabic words come from a 3-letter root poured into a pattern.",
+      "explanation": "Arabic vocabulary is built from triliteral roots — a sequence of (usually three) consonants carrying a core meaning. The root ح-م-د means 'praise'. Pour it into different patterns and you get a family: الْحَمْد (the praise), حَمِدَ (he praised), مَحْمُود (praiseworthy), مُحَمَّد (the much-praised one), حَمِيد (praiseworthy). Learn to extract the root from any word and you unlock its whole family at once — this is the engine of ṣarf.",
+      "keyPoints": [
+        "Root = the bare consonants (e.g. ح م د).",
+        "Pattern = the vowels/extra letters added around the root.",
+        "Same root → related meanings across many words."
+      ],
+      "examples": [
+        { "arabic": "الْحَمْدُ", "translit": "al-ḥamd", "translation": "the praise", "note": "root ح م د", "ref": "1:2" },
+        { "arabic": "نَعْبُدُ", "translit": "naʿbudu", "translation": "we worship", "note": "root ع ب د → also عَبْد 'servant', عِبَادَة 'worship'", "ref": "1:5" },
+        { "arabic": "نَسْتَعِينُ", "translit": "nastaʿīn", "translation": "we seek help", "note": "root ع و ن, Form X → also مَعُونَة 'aid', إِعَانَة 'assistance'", "ref": "1:5" }
+      ],
+      "quiz": [
+        {
+          "q": "What is the root of نَعْبُدُ ('we worship')?",
+          "options": ["ن ع ب", "ع ب د", "ب د و"],
+          "answer": 1,
+          "explanation": "The core consonants are ع-ب-د ('to worship/serve') — also seen in عَبْد (servant) and عِبَادَة (worship)."
+        }
+      ]
+    },
+    {
+      "id": "case-endings",
+      "level": "Intermediate",
+      "title": "6. Case endings & basic iʿrāb",
+      "concept": "The short vowel on a word's end shows its job in the sentence.",
+      "explanation": "Iʿrāb is the system of case endings that signals a word's grammatical role. The three cases are: marfūʿ (nominative, -u) for the subject; manṣūb (accusative, -a) for the object; majrūr (genitive, -i) after prepositions and in iḍāfah. الْحَمْدُ ends in -u because it is the subject (mubtadaʾ); لِلَّهِ ends in -i because it follows a preposition. The endings are why vocalization (tashkīl) matters — they carry grammar, not just sound.",
+      "keyPoints": [
+        "Marfūʿ (-u): subject / starting noun.",
+        "Manṣūb (-a): object / certain particles.",
+        "Majrūr (-i): after prepositions and as muḍāf ilayh.",
+        "Use the Reader's iʿrāb mode to parse whole ayahs interactively."
+      ],
+      "examples": [
+        { "arabic": "الْحَمْدُ", "translit": "al-ḥamd-u", "translation": "the praise (subject)", "note": "marfūʿ, -u", "ref": "1:2" },
+        { "arabic": "اللَّهِ", "translit": "Allāh-i", "translation": "Allah (after لِ)", "note": "majrūr, -i", "ref": "1:2" },
+        { "arabic": "الصِّرَاطَ", "translit": "aṣ-ṣirāṭ-a", "translation": "the path (object)", "note": "manṣūb, -a", "ref": "1:6" }
+      ],
+      "quiz": [
+        {
+          "q": "الصِّرَاطَ in 'guide us to the straight path' ends in -a. What is its role?",
+          "options": ["Subject (marfūʿ)", "Object (manṣūb)", "After a preposition (majrūr)"],
+          "answer": 1,
+          "explanation": "The -a ending is manṣūb (accusative) — here it is the object of the verb 'guide'."
+        }
+      ]
+    }
+  ]
+}
